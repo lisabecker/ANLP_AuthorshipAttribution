@@ -2,7 +2,7 @@
 
 March 1st, 2019, University of Potsdam
 
-Final project for Advanced Natural Language Processing by Lisa Becker, Nina Harlacher, Joceline Ziegler
+Final project for the graded course Advanced Natural Language Processing by Lisa Becker, Nina Harlacher, Joceline Ziegler. The report can be found in this repository as ANLP_report_paper.pdf. Supervised by Professor Tatjana Scheffler at the University of Potsdam.
 
 Just download all files.
 
